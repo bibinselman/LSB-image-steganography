@@ -1,15 +1,3 @@
-/*
-
-Project Number                            : 02
-Project Name                              : LSB image steganography
-
-Name                                      : Bibin Selman
-Batch                                     : 24038
-Date                                      : 02/04/2025
-
-*/
-
-
 
 #include <stdio.h>
 #include <stdlib.h>
